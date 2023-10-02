@@ -27,7 +27,7 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 #### Incorporating MIDI Functionality into an Acoustic Accordion 
 - Developed and installed Arduino based system inside an acoustic accordion that is able to capture sensory data and translate it to MIDI.
 -  [Link](https://github.com/AdamLauz/midi-accordion-arduino)
--  
+
 #####  @ OpenMRS
 - Developed open source module for medical appointment scheduling using JavaScript, Java, and open-source technologies such as Liquibase, Spring MVC, and Hibernate.
 - System was deployed in a refugee clinc in Tel-Aviv
