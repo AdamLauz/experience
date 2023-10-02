@@ -29,7 +29,7 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 - Developed and installed Arduino based system inside an acoustic accordion that is able to capture sensory data and translate it to MIDI.
 -  [Link](https://github.com/AdamLauz/midi-accordion-arduino)
 
-#####  Open Source Appointment Scheduling Module @ OpenMRS (_2012-2013_)
+####  Open Source Appointment Scheduling Module @ OpenMRS (_2012-2013_)
 - Developed open source module for medical appointment scheduling using JavaScript, Java, and open-source technologies such as Liquibase, Spring MVC, and Hibernate.
 - System was deployed in a refugee clinc in Tel-Aviv.
 - [Publication](https://wiki.openmrs.org/display/docs/appointment+scheduling+module)
