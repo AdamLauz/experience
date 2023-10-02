@@ -5,14 +5,15 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 
 ## Education
 - Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2016-2019_)
-- Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2009-2013_)
+- Information Systems Engineering, B.Sc. @Ben-Gurion University Of the Negev (_2009-2013_)
 - Jazz Harmony external studies @ Rimon School of Music
 - Music Performance
 
 ## Work Experience
 **Data Scientist & Algorithms Engineer @ Outbrain**(__Jan 2022-Present__)
-- CTR prediction
-- Quality
+- Developed ad quality rating models and ads auction simulator for offline A/B testing.
+- Built click-through rate prediction models using machine learning.
+- Responsible for model development, deployment, and monitoring in production, including online A/B testing.
 
 **Data Scientist @ Outseer**(__2020-2022__)
 - Developed fraud detection models for e-commerce and online banking.
@@ -30,5 +31,5 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 
 #####  @ OpenMRS
 - Developed open source module for medical appointment scheduling using JavaScript, Java, and open-source technologies such as Liquibase, Spring MVC, and Hibernate.
-- System was deployed in a refugee clinc in Tel-Aviv
+- System was deployed in a refugee clinc in Tel-Aviv.
 - [Publication](https://wiki.openmrs.org/display/docs/appointment+scheduling+module)
