@@ -25,6 +25,9 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 - Received Certificate of Excellence as head of the Israeli Navy's equipment division in 2017.
 
 ## Projects
+**Generating Counterpoint melody given Cantus Firmus using LSTM model** (_2023__)
+- [Link](https://github.com/AdamLauz/counterpoint-generator-lstm)
+
 **Incorporating MIDI Functionality into an Acoustic Accordion** (_2020_)
 - Developed and installed Arduino based system inside an acoustic accordion that is able to capture sensory data and translate it to MIDI.
 -  [Link](https://github.com/AdamLauz/midi-accordion-arduino)
