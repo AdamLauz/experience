@@ -1,7 +1,7 @@
 # Data Scientist | ML Engineer
 Data Scientist & ML Engineer with expertise in fraud detection, ad recommendation systems, and machine learning. Proven track record in developing and deploying production-ready models.
 
-##### Technical skills: Python, SQL, JAVA, AWS
+##### Technical skills: Python, JAVA, SpringBoot, AWS, Docker, TensorFlow, SQL, Hive, Presto
 
 ## Education
 - Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2016-2019_)
