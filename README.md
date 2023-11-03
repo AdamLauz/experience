@@ -1,7 +1,7 @@
 # Data Scientist | ML Engineer
 Data Scientist & ML Engineer with expertise in fraud detection, ad recommendation systems, and machine learning. Proven track record in developing and deploying production-ready models.
 
-##### Technical skills: Python, JAVA, SpringBoot, AWS, Docker, TensorFlow, SQL, Hive, Presto
+##### Technical skills: Python, JAVA, SpringBoot, AWS, Docker, TensorFlow, SQL, Hive, Presto, Arduino, Librosa
 
 ## Education
 - Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2016-2019_)
@@ -10,7 +10,7 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 - Music Performance
 
 ## Work Experience
-**Data Scientist & Algorithms Engineer @ Outbrain** (_Jan 2022-Present_)
+**Data Scientist & Algorithms Engineer @ Outbrain\Recommendations** (_Jan 2022-Present_)
 - Developed ad quality rating models and ads auction simulator for offline A/B testing.
 - Built click-through rate prediction models using machine learning.
 - Responsible for model development, deployment, and monitoring in production, including online A/B testing.
