@@ -7,7 +7,7 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 - Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2016-2019_)
 - Information Systems Engineering, B.Sc. @Ben-Gurion University Of the Negev (_2009-2013_)
 - Jazz Harmony external studies @ Rimon School of Music
-- Music Performance
+- Accordion performance @ Conservatory & private lessons 
 
 ## Work Experience
 **Data Scientist & Algorithms Engineer @ Outbrain** (_Jan 2022-Present_)
