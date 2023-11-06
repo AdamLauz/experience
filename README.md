@@ -22,7 +22,7 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 
 **Product Manager @ IDF** (_2013-2019_)
 - Led product requirements definition by understanding users' needs.
-- Received Certificate of Excellence as head of the Israeli Navy's equipment division in 2017.
+- Received Certificate of Excellence from head of the Israeli Navy's equipment division in 2017.
 
 ## Projects
 **Generating Counterpoint melody from a Cantus Firmus using LSTM model** (_2023_)
