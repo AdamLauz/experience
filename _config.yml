@@ -2,6 +2,21 @@ title: Adam Lauz
 logo: https://avatars.githubusercontent.com/u/2620814?v=4
 description: ML | AI | 
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  # Minima date format.
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #
+  # date_format: "%b %-d, %Y"
+
+  # Generate social links in footer.
+  #
+  # social_links:
+  #   - { platform: github,         user_url: "https://github.com/AdamLauz" }
+  #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/adam-l-2b96985b" }
+
 author:
   name: Adam Lauz
   email: "adamlauz@gmail.com"
