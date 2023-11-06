@@ -27,7 +27,7 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 ## Projects
 **Generating Counterpoint melody from a Cantus Firmus using LSTM model** (_2023_)
 - LSTM (Long Short-Term Memory) model is trained on sequences of cantus firmus and counter point melodies
-- Model is able to generate a counter point melody given a cantus firmus.
+- The model is capable of generating a counter point melody given a cantus firmus.
 - [Link](https://github.com/AdamLauz/counterpoint-generator-lstm)
 
 **Incorporating MIDI Functionality into an Acoustic Accordion** (_2020_)
