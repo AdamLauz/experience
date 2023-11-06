@@ -1,10 +1,9 @@
 title: Adam Lauz
 logo: https://avatars.githubusercontent.com/u/2620814?v=4
-description: ML | AI | adamlauz@gmail.com
+description: ML | AI | 
 author :
-	  name : Name Lastname
-	  email : blah@email.test
-	  github : username
-	  twitter : username
-	  feedburner : feedname
+  name : Adam Lauz
+  email : adamlauz@gmail.com
+  github : AdamLauz
+  linkedin : https://www.linkedin.com/in/adam-l-2b96985b/
 theme: jekyll-theme-minimal
