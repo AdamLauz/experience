@@ -5,7 +5,7 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 
 ## Education
 - Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2016-2019_)
-***Thesis: Modeling Human Strategic Voting Behavior using Machine Learning
+--- Thesis: Modeling Human Strategic Voting Behavior using Machine Learning
 - Information Systems Engineering, B.Sc. @Ben-Gurion University Of the Negev (_2009-2013_)
 - Jazz Harmony external studies @ Rimon School of Music
 - Accordion performance @ Conservatory & private lessons 
