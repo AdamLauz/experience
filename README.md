@@ -8,7 +8,6 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
     - Thesis: Modeling Human Strategic Voting Behavior using Machine Learning
 - Information Systems Engineering, B.Sc. @Ben-Gurion University Of the Negev (_2009-2013_)
 - Jazz Harmony external studies @ Rimon School of Music
-- Accordion performance @ Conservatory & private lessons 
 
 ## Work Experience
 **Data Scientist & Algorithms Engineer @ Outbrain** (_Jan 2022-Present_)
