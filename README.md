@@ -25,17 +25,15 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 - Received Certificate of Excellence from head of the Israeli Navy's equipment division in 2017.
 
 ## Projects
-**Voice2Text service** (__2023__) [Link](https://github.com/AdamLauz/voice2text-service)
- - nginx & flask service based on Whisper and ChatGPT Paraphraser transformers.
-
 **Generating Counterpoint melody from a Cantus Firmus using LSTM model** (_2023_) [Link](https://github.com/AdamLauz/counterpoint-generator-lstm)
 - LSTM (Long Short-Term Memory) model is trained on sequences of cantus firmus and counter point melodies
 - The model is capable of generating a counter point melody given a cantus firmus.
 
+**Voice2Text service** (__2023__) [Link](https://github.com/AdamLauz/voice2text-service)
+ - nginx & flask service based on Whisper and ChatGPT Paraphraser transformers.
 
 **Incorporating MIDI Functionality into an Acoustic Accordion** (_2020_) [Link](https://github.com/AdamLauz/midi-accordion-arduino)
 - Developed and installed Arduino based system inside an acoustic accordion that is able to capture sensory data and translate it to MIDI.
-
 
 **Open Source Appointment Scheduling Module @ OpenMRS** (_2012-2013_) [Link](https://wiki.openmrs.org/display/docs/appointment+scheduling+module)
 - Developed open source module for medical appointment scheduling using JavaScript, Java, and open-source technologies such as Liquibase, Spring MVC, and Hibernate.
