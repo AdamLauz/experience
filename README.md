@@ -10,7 +10,7 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 - Jazz Harmony external studies @ Rimon School of Music
 
 ## Work Experience
-**Data Scientist & Algorithms Engineer @ Outbrain** (_Jan 2022-Present_)
+**Algorithms Engineer @ Outbrain** (_Jan 2022-Present_)
 - Developed ad quality rating models and ads auction simulator for offline A/B testing.
 - Built click-through rate prediction models using machine learning.
 - Responsible for model development, deployment, and monitoring in production, including online A/B testing.
@@ -20,7 +20,7 @@ Data Scientist & ML Engineer with expertise in fraud detection, ad recommendatio
 - Temporarily managed the data science team, collaborating with management, product, and marketing to define team tasks.
 - Built machine learning pipelines using Amazon SageMaker, S3, and Docker.
 
-**Product Manager @ IDF** (_2013-2019_)
+**Product Manager @ Israeli Navy** (_2013-2019_)
 - Led product requirements definition by understanding users' needs.
 - Received Certificate of Excellence from head of the Israeli Navy's equipment division in 2017.
 
