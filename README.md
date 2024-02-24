@@ -1,5 +1,5 @@
 # Machine Learning Engineer
-Machine Learning engineer with expertise in fraud detection, ad recommendation systems, and machine learning. Proven track record in developing and deploying production-ready models.
+Expertise in fraud detection, ad recommendation systems, and machine learning. Proven track record in developing and deploying production-ready models.
 
 ##### Skills: Python, R, JAVA, SpringBoot, AWS, Docker, TensorFlow, sklearn, SQL, Hive, Presto, Git, Arduino, Librosa, Audio Recording & Mixing, MIDI Programming, CTR Prediction, Deep Factorization Machines.
 
