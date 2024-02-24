@@ -15,7 +15,7 @@ Expertise in fraud detection, ad recommendation systems, and machine learning. P
 - Built click-through rate prediction models using machine learning.
 - Responsible for model development, deployment, and monitoring in production, including online A/B testing.
 
-**Data Scientist @ RSA Security** (_2020-2022_)
+**Data Scientist @ Outseer (RSA Security)** (_2020-2022_)
 - Developed fraud detection models for e-commerce and online banking.
 - Temporarily managed the data science team, collaborating with management, product, and marketing to define team tasks.
 - Built machine learning pipelines using Amazon SageMaker, S3, and Docker.
