@@ -12,7 +12,7 @@ Expertise in fraud detection, ad recommendation systems, and machine learning. P
 ## Work Experience
 **Algorithms Engineer @ Outbrain** (_Jan 2022-Present_)
 - Developed ad quality rating models and ads auction simulator for offline A/B testing.
-- Built click-through rate prediction models using machine learning.
+- Built ad click-through rate and viewability prediction models using machine learning (Deep FM, TensorFlow).
 - Responsible for model development, deployment, and monitoring in production, including online A/B testing.
 
 **Data Scientist @ RSA Security** (_2020-2022_)
