@@ -1,7 +1,10 @@
 # Machine Learning Engineer
 Expertise in fraud detection, ad recommendation systems, and machine learning. Proven track record in developing and deploying production-ready models.
 
-##### Skills: Python, R, JAVA, SpringBoot, AWS, Docker, TensorFlow, sklearn, SQL, Hive, Presto, Git, Arduino, Librosa, Audio Recording & Mixing, MIDI Programming, CTR Prediction, Deep Factorization Machines.
+##### Coding: Python (flask & nginx), R, JAVA (SpringBoot), C (DSP with Arduino).
+##### Databases: SQL, Hive, Presto, Vertica, BigQuery, Redash, Spark jobs. 
+##### ML: Deep Factorization Machines, XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning (TensorFlow), sklearn, pandas.
+##### Others: AWS (SageMaker, S3, EC2) , Docker, Git, Audio Recording & Mixing, MIDI Programming, Librosa (Pyhton)
 
 ## Education
 - Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2016-2019_)
