@@ -2,7 +2,7 @@
 Expertise in fraud detection, ad recommendation systems, and machine learning. Proven track record in developing and deploying production-ready models.
 
 - **Coding**: Python (flask & nginx), R, JAVA (SpringBoot), C (DSP with Arduino). 
-- **Databases**: SQL, Hive, Presto, Vertica, BigQuery, Redash, Spark jobs.  
+- **Databases**: SQL, Hive, Presto, Vertica, BigQuery, Redash dashboards, Spark jobs.  
 - **ML**: Deep Factorization Machines, XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning (TensorFlow), sklearn, pandas.
 - **Others**: AWS (SageMaker, S3, EC2) , Docker, Git, Audio Recording & Mixing, MIDI Programming, Librosa (Pyhton)
 
@@ -15,7 +15,8 @@ Expertise in fraud detection, ad recommendation systems, and machine learning. P
 ## Work Experience
 **Algorithms Engineer @ Outbrain** (_Jan 2022-Present_)
 - Developed ad quality rating models and ads auction simulator for offline A/B testing.
-- Built ad click-through rate and viewability prediction models using machine learning (Deep FM, TensorFlow).
+- Ad click-through rate, conversion rate and viewability prediction models using machine learning (Deep FM, TensorFlow based networks).
+- Creative feature engineering, proven record of continuous improvement of production models. 
 - Responsible for model development, deployment, and monitoring in production, including online A/B testing.
 
 **Data Scientist @ RSA Security** (_2020-2022_)
