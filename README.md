@@ -1,9 +1,9 @@
 # Machine Learning Engineer
 Expertise in fraud detection, ad recommendation systems, and machine learning. Proven track record in developing and deploying production-ready models.
 
+- **ML**: Deep Factorization Machines, XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning (TensorFlow), sklearn, pandas.
 - **Coding**: Python (flask & nginx), R, JAVA (SpringBoot)
 - **Databases**: SQL, Hive, Presto, Vertica, BigQuery, Redash dashboards, Spark jobs.  
-- **ML**: Deep Factorization Machines, XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning (TensorFlow), sklearn, pandas.
 - **Others**: AWS (SageMaker, S3, EC2) , Docker, Git, Audio Recording & Mixing, MIDI Programming, Librosa (Pyhton), Arduino Programming.
 
 ## Education
@@ -19,7 +19,7 @@ Expertise in fraud detection, ad recommendation systems, and machine learning. P
 - Creative feature engineering, proven record of continuous improvement of production models. 
 - Responsible for model development, deployment, and monitoring in production, including online A/B testing.
 
-**Data Scientist @ RSA Security** (_2020-2022_)
+**Research Scientist @ RSA Security** (_2020-2022_)
 - Developed fraud detection models for e-commerce and online banking.
 - Temporarily managed the data science team, collaborating with management, product, and marketing to define team tasks.
 - Built machine learning pipelines using Amazon SageMaker, S3, and Docker.
