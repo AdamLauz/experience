@@ -1,7 +1,7 @@
 # Machine Learning Engineer
 Expertise in fraud detection, ad recommendation systems, and machine learning. Proven track record in developing and deploying production-ready models.
 
-- **ML**: Deep Factorization Machines, XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning (TensorFlow), sklearn, pandas.
+- **ML**: Deep Factorization Machines, XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning (TensorFlow), RAG, LLMs, sklearn, pandas.
 - **Coding**: Python (flask & nginx), R, JAVA (SpringBoot)
 - **Databases**: SQL, Hive, Presto, Vertica, BigQuery, Redash dashboards, Spark jobs.  
 - **Others**: AWS (SageMaker, S3, EC2) , Docker, Git, Audio Recording & Mixing, MIDI Programming, Librosa (Pyhton), Arduino Programming.
