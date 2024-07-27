@@ -3,17 +3,18 @@
  Expertise in developing and deploying production-ready machine learning models with a strong background in fraud detection, ad recommendation systems, and personalized AI solutions.
 
 ## Skills
-- **Machine Learning:** XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning (TensorFlow), Deep FFM, Retrieval-Augmented Generation (RAG, llama-index), Large Language Models (LLMs).
+- **Machine Learning:** XGBoost, CatBoost, Logistic Regression, Bayesian Modeling, Factorization Machines.
+- **Deep Learning** DeepFFM (TensorFlow), RAG (llama-index), LLMs.
 - **Programming Languages:** Python (Flask, scikit-learn, pandas, NumPy), Java (SpringBoot), R.
-- **Data Engineering:** SQL, Hive, BigQuery, Spark (Scala), Presto, Vertica, Redash.
+- **Data Engineering:** SQL, Hive, BigQuery, Presto, Vertica, Redash.
 - **Cloud and Infrastructure:** AWS (SageMaker, S3, EC2), Docker, Kubernetes (Usage-Only).
-- **Additional Tools:** Git, Librosa (Python), Arduino Programming, MIDI Programming.
+- **Additional Tools:** Git, Arduino Programming.
+- **Familiar With:** Fine-tuning LLMs with LoRA, Spark-Scala.
 
 ## Education
 - Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2016-2019_)
     - Thesis: Modeling Human Strategic Voting Behavior using Machine Learning
 - Information Systems Engineering, B.Sc. @Ben-Gurion University Of the Negev (_2009-2013_)
-- Jazz Harmony external studies @ Rimon School of Music
 
 ## Work Experience
 **Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
@@ -48,6 +49,3 @@
 - Developed and integrated an Arduino-based system into an acoustic accordion to capture and translate sensory data to MIDI, expanding the instrument's capabilities.  
   [GitHub Link](https://github.com/AdamLauz/midi-accordion-arduino)
 
-**Open Source Appointment Scheduling Module @ OpenMRS** (2012 - 2013)  
-- Designed and developed an open-source appointment scheduling module using JavaScript, Java, Liquibase, Spring MVC, and Hibernate, deployed in a refugee clinic in Tel-Aviv.  
-  [OpenMRS Link](https://wiki.openmrs.org/display/docs/appointment+scheduling+module)
