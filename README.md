@@ -1,6 +1,6 @@
 # Machine Learning Engineer
 
-### Expertise in developing and deploying production-ready machine learning models with a strong background in fraud detection, ad recommendation systems, and personalized AI solutions.
+ Expertise in developing and deploying production-ready machine learning models with a strong background in fraud detection, ad recommendation systems, and personalized AI solutions.
 
 ## Skills
 - **Machine Learning:** XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning (TensorFlow), Deep FFM, Retrieval-Augmented Generation (RAG, llama-index), Large Language Models (LLMs).
