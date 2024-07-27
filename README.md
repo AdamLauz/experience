@@ -1,4 +1,4 @@
-# Adam Lauz - Machine Learning Engineer
+# Machine Learning Engineer
 
 ### Expertise in developing and deploying production-ready machine learning models with a strong background in fraud detection, ad recommendation systems, and personalized AI solutions.
 
