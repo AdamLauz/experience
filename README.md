@@ -3,7 +3,7 @@
 ### Expertise in developing and deploying production-ready machine learning models with a strong background in fraud detection, ad recommendation systems, and personalized AI solutions.
 
 ## Skills
-- **Machine Learning:** TensorFlow, PyTorch, XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs).
+- **Machine Learning:** XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning (TensorFlow), Deep FFM, Retrieval-Augmented Generation (RAG, llama-index), Large Language Models (LLMs).
 - **Programming Languages:** Python (Flask, scikit-learn, pandas, NumPy), Java (SpringBoot), R.
 - **Data Engineering:** SQL, Hive, BigQuery, Spark (Scala), Presto, Vertica, Redash.
 - **Cloud and Infrastructure:** AWS (SageMaker, S3, EC2), Docker, Kubernetes (Usage-Only).
