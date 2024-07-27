@@ -21,14 +21,14 @@
 ## Work Experience
 **Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
 - Developed ad quality rating models and an ads auction simulator.
-- Created click-through rate, conversion rate, and viewability prediction models using Deep FM and TensorFlow, improving model performance by X%.
+- Created click-through rate, conversion rate, and viewability prediction models using Deep FM and TensorFlow.
 - Enhanced production models through innovative feature engineering and continuous improvement.
 - Managed end-to-end model development, deployment, and monitoring, including online A/B testing.
 
 **Research Scientist @ RSA Security** (2020 - 2022)
-- Designed and implemented fraud detection models for e-commerce and online banking, reducing fraud detection time by X%.
+- Designed and implemented fraud detection models for e-commerce and online banking.
 - Temporarily led the data science team, collaborating with management, product, and marketing teams to define and execute strategic tasks.
-- Built and deployed machine learning pipelines using Amazon SageMaker, S3, and Docker, streamlining data processing by X%.
+- Built and deployed machine learning pipelines using Amazon SageMaker, S3, and Docker.
 
 **Product Manager @ Israeli Navy** (2013 - 2019)
 - Defined product requirements by closely analyzing user needs and feedback.
