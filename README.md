@@ -21,7 +21,7 @@
 ## Work Experience
 **Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
 - Developed ad quality rating models and an ads auction simulator.
-- Created click-through rate, conversion rate, and viewability prediction models using Deep FM and TensorFlow.
+- Built click-through rate, conversion rate, and viewability prediction models using Deep FM and TensorFlow.
 - Enhanced production models through innovative feature engineering and continuous improvement.
 - Managed end-to-end model development, deployment, and monitoring, including online A/B testing.
 
