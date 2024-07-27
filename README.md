@@ -10,13 +10,10 @@
 - **Additional Tools:** Git, Librosa (Python), Arduino Programming, MIDI Programming.
 
 ## Education
-- **M.Sc. in Information Systems Engineering**  
-  Ben-Gurion University of the Negev (2016-2019)  
-  Thesis: Modeling Human Strategic Voting Behavior using Machine Learning
-- **B.Sc. in Information Systems Engineering**  
-  Ben-Gurion University of the Negev (2009-2013)
-- **Jazz Harmony Studies**  
-  Rimon School of Music
+- Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2016-2019_)
+    - Thesis: Modeling Human Strategic Voting Behavior using Machine Learning
+- Information Systems Engineering, B.Sc. @Ben-Gurion University Of the Negev (_2009-2013_)
+- Jazz Harmony external studies @ Rimon School of Music
 
 ## Work Experience
 **Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
