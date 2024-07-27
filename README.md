@@ -4,10 +4,10 @@
 
 ## Skills
 - **Machine Learning:** TensorFlow, PyTorch, XGBoost, Logistic Regression, Bayesian Modeling, Deep Learning, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), scikit-learn, pandas, NumPy, matplotlib.
-- **Programming Languages:** Python (Flask, FastAPI), Java (SpringBoot), R, Scala.
-- **Data Engineering:** SQL, Hive, BigQuery, Spark, Presto, Vertica, Redash, Airflow, Apache Flink.
-- **Cloud and Infrastructure:** AWS (SageMaker, S3, EC2), GCP, Docker, Kubernetes, Terraform, Datadog, Istio.
-- **Additional Tools:** Git, Librosa (Python), Arduino Programming, MIDI Programming, 2D Graphics (SVG).
+- **Programming Languages:** Python (Flask), Java (SpringBoot), R.
+- **Data Engineering:** SQL, Hive, BigQuery, Spark, Presto, Vertica, Redash.
+- **Cloud and Infrastructure:** AWS (SageMaker, S3, EC2), Docker, Kubernetes.
+- **Additional Tools:** Git, Librosa (Python), Arduino Programming, MIDI Programming.
 
 ## Education
 - **M.Sc. in Information Systems Engineering**  
@@ -36,11 +36,11 @@
 
 ## Projects
 **Sawser Q GPT Service (RAG Based)** (2024)  
-- Developed an Nginx & Flask service using RAG architecture with BAAI/bge-small-en-v1.5 for embeddings and TheBloke/Mistral-7B-Instruct-v0.2-GPTQ as the LLM. Improved query response times by X%.  
+- Developed an Nginx & Flask service using RAG architecture with BAAI/bge-small-en-v1.5 for embeddings and TheBloke/Mistral-7B-Instruct-v0.2-GPTQ as the LLM. 
   [GitHub Link](https://github.com/AdamLauz/sawserQGPT)
 
 **Voice2Text Service** (2023)  
-- Implemented an Nginx & Flask service based on Whisper (OpenAI Speech Recognition) and ChatGPT Paraphraser (T5 LLM), enhancing transcription accuracy by X%.  
+- Implemented an Nginx & Flask service based on Whisper (OpenAI Speech Recognition) and ChatGPT Paraphraser (T5 LLM)
   [GitHub Link](https://github.com/AdamLauz/voice2text-service)
 
 **Counterpoint Melody Generation using LSTM Model** (2023)  
@@ -54,7 +54,3 @@
 **Open Source Appointment Scheduling Module @ OpenMRS** (2012 - 2013)  
 - Designed and developed an open-source appointment scheduling module using JavaScript, Java, Liquibase, Spring MVC, and Hibernate, deployed in a refugee clinic in Tel-Aviv.  
   [OpenMRS Link](https://wiki.openmrs.org/display/docs/appointment+scheduling+module)
-
----
-
-Feel free to adjust the quantified achievements based on your actual impact and any additional specifics you might have.
