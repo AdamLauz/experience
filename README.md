@@ -12,9 +12,9 @@
 - **Familiar With:** Fine-tuning LLMs with LoRA, Spark-Scala.
 
 ## Education
-- Information Systems Engineering, M.Sc. @Ben-Gurion University Of the Negev (_2016-2019_)
+- **Information Systems Engineering, M.Sc.** @Ben-Gurion University Of the Negev (_2016-2019_)
     - Thesis: Modeling Human Strategic Voting Behavior using Machine Learning
-- Information Systems Engineering, B.Sc. @Ben-Gurion University Of the Negev (_2009-2013_)
+- **Information Systems Engineering, B.Sc.** @Ben-Gurion University Of the Negev (_2009-2013_)
 
 ## Work Experience
 **Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
