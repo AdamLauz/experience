@@ -1,6 +1,6 @@
 # AI Engineer
 I am passionate about building solutions from the ground up and simplifying complex systems to make them more accessible. With a strong understanding of both technical details and the broader product vision, I excel at bridging the gap between development and real-world application.
-My expertise lies in software project management, and in developing and deploying production-ready machine learning models. I have experience in fraud detection, ad recommendation systems, and personalized AI solutions. In my spare time, I enjoy building engineering projects and playing music. 
+My expertise lies in software project management, and in developing and deploying production-ready machine learning models. I have experience in fraud detection, ad recommendation systems, and personalized AI solutions. In my spare time, I enjoy building engineering projects.
 
 ## Skills and Tools
 - **Machine Learning:** Gradient Boosting, Logistic Regression, Bayesian Modeling, Factorization Machines.
