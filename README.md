@@ -1,15 +1,15 @@
-# Machine Learning Engineer
+# AI Engineer
+I am passionate about building solutions from the ground up and simplifying complex systems to make them more accessible. With a strong understanding of both technical details and the broader product vision, I excel at bridging the gap between development and real-world application.
+My expertise lies in software project management, and in developing and deploying production-ready machine learning models. I have experience in fraud detection, ad recommendation systems, and personalized AI solutions. In my spare time, I enjoy building engineering projects and playing music. 
 
- Expertise in developing and deploying production-ready machine learning models with a strong background in fraud detection, ad recommendation systems, and personalized AI solutions.
-
-## Skills
-- **Machine Learning:** XGBoost, CatBoost, Logistic Regression, Bayesian Modeling, Factorization Machines.
+## Skills and Tools
+- **Machine Learning:** Gradient Boosting, Logistic Regression, Bayesian Modeling, Factorization Machines.
 - **Deep Learning** DeepFFM (TensorFlow), RAG (llama-index), LLMs.
 - **Programming Languages:** Python (Flask, scikit-learn, pandas, NumPy), Java (SpringBoot), R.
 - **Data Engineering:** SQL, Hive, BigQuery, Presto, Vertica, Redash.
-- **Cloud and Infrastructure:** AWS (SageMaker, S3, EC2), Docker, Kubernetes (Usage-Only).
+- **Cloud and Infrastructure:** AWS (SageMaker, S3, EC2), Docker, .
 - **Additional Tools:** Git, Prometheus, Grafana, Arduino Programming.
-- **Familiar With:** Fine-tuning LLMs with LoRA, Spark-Scala.
+- **Familiar With:** Fine-tuning LLMs with LoRA, Spark-Scala, Kubernetes.
 
 ## Education
 - **Information Systems Engineering, M.Sc.** @Ben-Gurion University Of the Negev (_2016-2019_)
@@ -18,10 +18,9 @@
 
 ## Work Experience
 **Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
-- Developed ad quality rating models and an ads auction simulator.
-- Built click-through rate, conversion rate, and viewability prediction models using Deep FM and TensorFlow.
+- Built click-through rate, conversion rate, and viewability prediction models using Deep FM and TensorFlow based Deep & Cross.
 - Enhanced production models through innovative feature engineering and continuous improvement.
-- Managed end-to-end model development, deployment, and monitoring, including online A/B testing.
+- Managed end-to-end model development, deployment, and monitoring and online A/B testing.
 
 **Research Scientist @ RSA Security** (2020 - 2022)
 - Designed and implemented fraud detection models for e-commerce and online banking.
@@ -37,7 +36,7 @@
 - Developed an Nginx & Flask service using RAG architecture with BAAI/bge-small-en-v1.5 for embeddings and TheBloke/Mistral-7B-Instruct-v0.2-GPTQ as the LLM. 
   [GitHub Link](https://github.com/AdamLauz/sawserQGPT)
 
-**Voice2Text Service** (2023)  
+**Voice2Text LLM based paraphrasing Service** (2023)  
 - Implemented an Nginx & Flask service based on Whisper (OpenAI Speech Recognition) and ChatGPT Paraphraser (T5 LLM)
   [GitHub Link](https://github.com/AdamLauz/voice2text-service)
 
