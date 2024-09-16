@@ -2,11 +2,10 @@
 I am passionate about building engineering projects from scratch. I have a deep understanding of both technical details and the broader product vision. I have experience in software project management, and in developing and deploying production-ready machine learning models. I enjoy building engineering projects in my spare time.
 
 ## Skills and Tools
-- **Machine Learning:** Gradient Boosting, Logistic Regression, Bayesian Modeling, Factorization Machines.
-- **Deep Learning** DeepFFM (TensorFlow), RAG (llama-index), LLMs.
+- **Machine Learning:** Gradient Boosting, Logistic Regression, Bayesian Modeling, Factorization Machines, DeepFFM (TensorFlow), RAG (llama-index), LLMs.
 - **Programming Languages:** Python (Flask, scikit-learn, pandas, NumPy), Java (SpringBoot), R.
 - **Data Engineering:** SQL, Hive, BigQuery, Presto, Vertica, Redash.
-- **Cloud and Infrastructure:** AWS (SageMaker, S3, EC2), Docker, .
+- **Cloud and Infrastructure:** AWS (SageMaker, S3, EC2), Docker.
 - **Additional Tools:** Git, Prometheus, Grafana, Arduino Programming.
 - **Familiar With:** Fine-tuning LLMs with LoRA, Spark-Scala, Kubernetes.
 
