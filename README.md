@@ -1,5 +1,5 @@
 # AI Engineer
-I am passionate about building engineering projects from scratch. I have a deep understanding of both technical details and the broader product vision. I have experience in software project management, and in developing and deploying production-ready machine learning models.
+I am passionate about building engineering projects from scratch. I have a deep understanding of both the technical details and the broader product vision. I have experience in software project management, and in developing and deploying production-ready machine learning models.
 
 ## Skills and Tools
 - **Machine Learning:** Gradient Boosting, Logistic Regression, Bayesian Modeling, Factorization Machines, DeepFFM (TensorFlow), RAG (llama-index), LLMs.
