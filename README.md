@@ -1,4 +1,4 @@
-# AI Engineer
+# ML Engineer
 I am passionate about building engineering projects from scratch. I have a deep understanding of both the technical details and the broader product vision. I have experience in software project management, and in developing and deploying production-ready machine learning models.
 
 ## Skills and Tools
@@ -15,12 +15,12 @@ I am passionate about building engineering projects from scratch. I have a deep 
 - **Information Systems Engineering, B.Sc.** @Ben-Gurion University Of the Negev (_2009-2013_)
 
 ## Work Experience
-**Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
+**ML Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
 - Built click-through rate, conversion rate, and viewability prediction models using Deep FM and TensorFlow based Deep & Cross.
 - Enhanced production models through innovative feature engineering and continuous improvement.
 - Managed end-to-end model development, deployment, and monitoring and online A/B testing.
 
-**Research Scientist @ RSA Security** (2020 - 2022)
+**Data Scientist @ RSA Security** (2020 - 2022)
 - Designed and implemented fraud detection models for e-commerce and online banking.
 - Temporarily led the data science team, collaborating with management, product, and marketing teams to define and execute strategic tasks.
 - Built and deployed machine learning pipelines using Amazon SageMaker, S3, and Docker.
