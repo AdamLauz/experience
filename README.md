@@ -1,4 +1,4 @@
-# Machine Learning Engineer & Researcher
+# Machine Learning Engineer | Researcher
 I am passionate about building AI engineering projects from scratch. I have a good sense of both the technical details and the broader product vision. I have experience in software project management, and in developing and deploying production-ready machine learning models.
 
 ## Skills and Tools
