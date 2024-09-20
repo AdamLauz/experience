@@ -21,7 +21,7 @@ I am passionate about building AI engineering projects from scratch. I have a go
 - Notable contributions (high scale A/B tested):
     - Click-through rate prediction: +1.1% Revenue Per Mille, +16-20% speed up in training data fetch time.
     - Widget viewability prediction: +8.18% Reach, +6.1% F1-Score, -8.46% False Negatives on premium traffic
-    - Video viewability prediction: +9.47% Reach, +4.65% F1-Score, -9.47% False Negatives
+    - Video viewability prediction: +11.18% Reach, +4.65% F1-Score, -9.47% False Negatives
     - Video completion prediction: +9.28% Reach, -7.24% False Negatives, +7.95% Recall.
     - Conversion rate prediction: -1.3% average Cost Per Action, +1.7% Conversions, +0.21% Gross Revenue.
 
