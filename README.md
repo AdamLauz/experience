@@ -19,11 +19,10 @@ I am passionate about building AI engineering projects from scratch. I have a go
 - Innovative feature engineering and continuous improvement.
 - Model development, deployment, and monitoring and online A/B testing.
 - Notable contributions (high scale A/B tested):
-    - Click-through rate: **+1.1%** Revenue Per Mille, **+16-20%** speed up in training data fetch time.
-    - Widget viewability: **+8.18%** Reach, **+6.1%** F1-Score, **-8.46%** False Negatives (premium traffic)
-    - Video viewability: **+11.18%** Reach, **+4.65%** F1-Score, **-9.47%** False Negatives
-    - Video completion: **+9.28%** Reach, **-7.24%** False Negatives, **+7.95%** Recall.
-    - Conversion rate: **-1.3%** Cost Per Action, **+1.7%** Conversions, **+0.21%** Gross Revenue.
+    - Click-through rate: **+1.1%** Revenue Per Mille, **+16%** speed up in training data fetch time.
+    - Widget viewability: **+8.2%** Reach, **+6.1%** F1-Score, **-8.5%** False Negatives (premium traffic)
+    - Video viewability: **+11.2%** Reach, **+4.6%** F1-Score, **-9.5%** False Negatives
+    - Conversion rate: **-1.3%** Cost Per Action, **+1.7%** Conversions, **+0.2%** Gross Revenue.
 
 
 **Data Scientist @ RSA Security** (2020 - 2022)
