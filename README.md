@@ -1,5 +1,5 @@
 # Machine Learning Engineer | Researcher
-I am passionate about building engineering projects from scratch. I have a good sense of both the technical and the broader product prespectives. I have experience in software product management, data analysis, A/B testing, predictive modeling and deployment of machine learning models to production.  
+I'm a builder, I love building engineering projects from scratch. I'm both people and technology oriented, I have a good sense of both the technical and the broader product prespectives. I have experience in manging software products, data analysis, A/B testing, predictive modeling and deployment of machine learning models to production.  
 
 ## Skills and Tools
 - **Machine Learning:** XGBoost, Bayesian Modeling, Logistic Regression, Deep Learning (Deep & Cross, DeepFFM), LLMs and RAG (llama-index).
@@ -25,9 +25,10 @@ I am passionate about building engineering projects from scratch. I have a good 
 - Research, Data analysis and explaining models behavior.
 - Deployed machine learning pipelines using Amazon SageMaker, S3, and Docker.
 
-**Product Manager, Officer @ Israeli Navy** (2013 - 2019)
+**Product Manager @ Israeli Navy** (2013 - 2019)
+- Led a group of product managers
 - Defined product requirements by closely analyzing user needs and feedback.
-- Awarded a Certificate of Excellence from the head of the Israeli Navy's equipment division in 2017 for exceptional performance and project outcomes.
+- Awarded a Certificate of Excellence from the head of the Israeli Navy's equipment division in 2017 for exceptional creativity and project outcomes.
 
 ## Personal Projects
 **GPT Service (RAG Based)** (2024)  
