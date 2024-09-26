@@ -1,5 +1,5 @@
 # Machine Learning Engineer | Researcher
-I am passionate about building engineering projects from scratch. I have a good sense of both the technical and the broader product prespectives. I have experience in software product management, data analysis, A/B testing, predictive modeling and deployment of machine learning models to production. 
+I am passionate about building engineering projects from scratch. I have a good sense of both the technical and the broader product prespectives. I have experience in software product management, data analysis, A/B testing, predictive modeling and deployment of machine learning models to production.  
 
 ## Skills and Tools
 - **Machine Learning:** XGBoost, Bayesian Modeling, Logistic Regression, Deep Learning (Deep & Cross, DeepFFM), LLMs and RAG (llama-index).
