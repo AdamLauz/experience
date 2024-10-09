@@ -16,9 +16,9 @@ I love building engineering projects from scratch. I'm both people and technolog
 
 ## Work Experience
 **ML Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
+- Optimization of Click Through Rate, Conversion Rate and Viewability.
 - Extensive feature engineering and continuous improvement.
-- Model development, deployment, and monitoring and online A/B testing.
-- Worked on Click Through Rate, Conversion Rate and Viewability use cases.
+- Model development, deployment, monitoring and online A/B testing.
 
 **Data Scientist @ RSA Security** (2020 - 2022)
 - Implemented fraud detection models for e-commerce and online banking.
@@ -31,7 +31,7 @@ I love building engineering projects from scratch. I'm both people and technolog
 - Awarded a Certificate of Excellence from the head of the Israeli Navy's equipment division in 2017 for exceptional creativity and project outcomes.
 
 ## Personal Projects
-**GPT Service (RAG Based)** (2024)  
+**RAG Based GPT Service** (2024)  
 - Developed an Nginx & Flask service using RAG architecture with BAAI/bge-small-en-v1.5 for embeddings and TheBloke/Mistral-7B-Instruct-v0.2-GPTQ as the LLM. 
   [GitHub Link](https://github.com/AdamLauz/sawserQGPT)
 
