@@ -22,7 +22,7 @@ I love building engineering projects from scratch. I'm both people and technolog
 
 **Data Scientist @ RSA Security** (2020 - 2022)
 - Implemented fraud detection models for e-commerce and online banking.
-- Research, data analysis and explaining model behavior to customer repsentatives.
+- Research, data analysis and explaining model behavior to customer representatives.
 - Deployed machine learning pipelines using Amazon SageMaker, S3, and Docker.
 
 **Product Manager @ Israeli Navy** (2013 - 2019)
