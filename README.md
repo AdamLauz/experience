@@ -20,7 +20,7 @@ I love building engineering projects from scratch. I'm both people and technolog
 - Extensive feature engineering and continuous improvement.
 - Model development, deployment, monitoring and online A/B testing.
 
-**Data Scientist @ RSA Security** (2020 - 2022)
+**Data Scientist @ RSA Security** (Jan 2020 - Jan 2022)
 - Implemented fraud detection models for e-commerce and online banking.
 - Research, data analysis and explaining model behavior to customer representatives.
 - Deployed machine learning pipelines using Amazon SageMaker, S3, and Docker.
