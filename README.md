@@ -1,5 +1,5 @@
 # Machine Learning Engineer | Researcher
-I love building engineering projects from scratch. I'm both people and technology oriented, I have a good sense of both the technical and the broader product prespectives. I have experience in managing software products, data analysis, predictive modeling,  A/B testing and deployment of machine learning models to production.  
+I love building engineering projects from scratch. I have a good sense of both the technical and the broader product prespectives. I have experience in managing software products, data analysis, predictive modeling,  A/B testing and deployment of machine learning models to production.  
 
 ## Skills and Tools
 - **Machine Learning:** XGBoost, Bayesian Modeling, Logistic Regression, Deep Learning (Deep & Cross, DeepFFM), LLMs and RAG (llama-index).
@@ -15,7 +15,10 @@ I love building engineering projects from scratch. I'm both people and technolog
 - **Information Systems Engineering, B.Sc.** @Ben-Gurion University Of the Negev (_2009-2013_)
 
 ## Work Experience
-**ML Algorithms Engineer @ Outbrain** (Jan 2022 - Present)
+**Senior ML Engineer @ ProjectM**
+(Dec 2024 - Present) 
+
+**ML Algorithms Engineer @ Outbrain** (Jan 2022 - Dec 2024)
 - Optimization of Click Through Rate, Conversion Rate and Viewability.
 - Extensive feature engineering and continuous improvement.
 - Model development, deployment, monitoring and online A/B testing.
