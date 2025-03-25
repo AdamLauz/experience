@@ -5,7 +5,7 @@ I love building engineering projects from scratch. I have a good sense of both t
 - **Machine Learning:** XGBoost, Bayesian Modeling, Logistic Regression, Deep Learning (Deep & Cross, DeepFFM), LLMs and RAG (llama-index).
 - **Engineering:** Python (Flask & NGiNX, scikit-learn, pandas, NumPy, tensorflow), Java (SpringBoot), R.
 - **Data Engineering:** SQL, Hive, BigQuery, Presto, Vertica, Redash.
-- **Cloud and Infrastructure:** AWS (SageMaker, S3, EC2, ECS tasks, ECR), Docker.
+- **Cloud and Infrastructure:** AWS (SageMaker, RDS, S3, EC2, ECS tasks, ECR), Docker, Infrastructure-as-code (AWS-CDK).
 - **Additional Tools:** Git, Prometheus, Grafana, Arduino, Jupyter Notebooks.
 - **Familiar With:** Fine-tuning LLMs, Spark-Scala, Kubernetes, pySpark.
 
