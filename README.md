@@ -3,9 +3,9 @@ I love building engineering projects from scratch. I have a good sense of both t
 
 ## Skills and Tools
 - **Machine Learning:** XGBoost, Bayesian Modeling, Logistic Regression, Deep Learning (Deep & Cross, DeepFFM), LLMs and RAG (llama-index).
-- **Engineering:** Python (Flask & NGiNX, scikit-learn, pandas, NumPy, tensorflow), Java (SpringBoot), R.
-- **Data Engineering:** SQL, Hive, BigQuery, Presto, Vertica, Redash.
-- **Cloud and Infrastructure:** AWS (SageMaker, RDS, S3, EC2, ECS tasks, ECR), Docker, Infrastructure-as-code (AWS-CDK).
+- **Engineering:** Python (Flask & NGiNX, scikit-learn, pandas, NumPy), Java (SpringBoot), R.
+- **Data Engineering:** SQL, Hive, BigQuery, Presto, Vertica, Redash, MongoDB.
+- **Cloud and Infrastructure:** AWS (SageMaker, RDS, S3, EC2, ECS tasks, ECR, EventBridge), Docker, Infrastructure-as-code (AWS-CDK).
 - **Additional Tools:** Git, Prometheus, Grafana, Arduino, Jupyter Notebooks.
 - **Familiar With:** Fine-tuning LLMs, Spark-Scala, Kubernetes, pySpark.
 
@@ -15,7 +15,7 @@ I love building engineering projects from scratch. I have a good sense of both t
 - **Information Systems Engineering, B.Sc.** @Ben-Gurion University Of the Negev (_2009-2013_)
 
 ## Work Experience
-**Senior ML Engineer @ ProjectM** (Dec 2024 - Present) 
+**Senior ML Engineer @ Project M** (Dec 2024 - Present) 
 - Deployment of an ML pipeline on AWS cloud.
 - Responsible for building the AWS infrastructure using infrastructure-as-code.
 
