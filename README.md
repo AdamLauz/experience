@@ -9,7 +9,7 @@ I love building engineering projects from scratch. I have a good sense of both t
 - **Additional Tools:** Git, Prometheus, Grafana, Arduino, Jupyter Notebooks.
 - **Familiar With:** Fine-tuning LLMs, Spark-Scala, Kubernetes, pySpark.
 - **Music Tech:** MIDI Programming (Python & music21, Arduino).
-- **Music:** Jazz Harmony and arrangement, DAWs (Cubase, Abletone).
+- **Music:** Jazz Harmony and arrangement, DAWs (Cubase, Ableton Live).
 
 ## Education
 - **Information Systems Engineering, M.Sc.** @Ben-Gurion University Of the Negev (_2016-2019_)
