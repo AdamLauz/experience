@@ -8,11 +8,14 @@ I love building engineering projects from scratch. I have a good sense of both t
 - **Cloud and Infrastructure:** AWS (SageMaker, RDS, S3, EC2, ECS tasks, ECR, EventBridge), Docker, Infrastructure-as-code (AWS-CDK).
 - **Additional Tools:** Git, Prometheus, Grafana, Arduino, Jupyter Notebooks.
 - **Familiar With:** Fine-tuning LLMs, Spark-Scala, Kubernetes, pySpark.
+- **Music Tech:** MIDI Programming (Python & music21, Arduino).
+- **Music:** Jazz Harmony and arrangement, DAWs (Cubase, Abletone).
 
 ## Education
 - **Information Systems Engineering, M.Sc.** @Ben-Gurion University Of the Negev (_2016-2019_)
     - Thesis: Modeling Human Strategic Voting Behavior using Machine Learning
 - **Information Systems Engineering, B.Sc.** @Ben-Gurion University Of the Negev (_2009-2013_)
+- **Jazz Harmony external studies.** @ Rimon School of Music
 
 ## Work Experience
 **Senior ML Engineer @ Project M** (Dec 2024 - Present) 
