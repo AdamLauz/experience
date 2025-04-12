@@ -19,8 +19,8 @@ I love building engineering projects from scratch. I have a good sense of both t
 
 ## Work Experience
 **Senior ML Engineer @ Project M** (Dec 2024 - Present) 
-- Deployment of an ML pipeline on AWS cloud.
-- Responsible for building the AWS infrastructure using infrastructure-as-code.
+- Deployment of a medical decision support backend on AWS cloud.
+- Responsible for building the AWS infrastructure using infrastructure-as-code (python & aws-cdk).
 - Built the project's infrastructure including PostgreSQL DB, MLflow service for model versioning and batch processing jobs using ECS serverless tasks.
 
 **ML Algorithms Engineer @ Outbrain** (Jan 2022 - Dec 2024)
