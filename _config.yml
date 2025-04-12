@@ -2,8 +2,6 @@ page.title: Adam Lauz
 logo: https://avatars.githubusercontent.com/u/2620814?v=4
 description: adamlauz@gmail.com
 theme: minimal-mistakes-jekyll
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 author:
   name: Adam Lauz
   email: "adamlauz@gmail.com"
