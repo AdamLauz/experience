@@ -6,7 +6,7 @@ I love building engineering projects from scratch. I have a good sense of both t
 - **Engineering:** Python (Flask & NGiNX, scikit-learn, pandas, NumPy), Java (SpringBoot), R.
 - **Data Engineering:** SQL, Hive, BigQuery, Presto, Vertica, Redash, MongoDB.
 - **Cloud and Infrastructure:** AWS (SageMaker, RDS, S3, EC2, ECS tasks, ECR, EventBridge), Docker, Infrastructure-as-code (AWS-CDK).
-- **Additional Tools:** Git, Prometheus, Grafana, Arduino, Jupyter Notebooks.
+- **Additional Tools:** Git, Prometheus, Grafana, Arduino, Jupyter Notebooks, mlflow.
 - **Familiar With:** Fine-tuning LLMs, Spark-Scala, Kubernetes, pySpark.
 - **Music Tech:** MIDI Programming (Python & music21, Arduino).
 - **Music:** Jazz Harmony and arrangement, DAWs (Cubase, Ableton Live).
