@@ -6,7 +6,7 @@ I love building engineering projects from scratch. I have a good sense of both t
 - **Engineering:** Python (Flask & NGiNX, scikit-learn, pandas, NumPy), Java (SpringBoot), R.
 - **Data Engineering:** SQL, Hive, BigQuery, Presto, Vertica, Redash, MongoDB.
 - **Cloud and Infrastructure:** AWS (SageMaker, RDS, S3, EC2, ECS tasks, ECR, EventBridge), Docker, Infrastructure-as-code (AWS-CDK).
-- **Additional Tools:** Git, Prometheus, Grafana, Arduino, Jupyter Notebooks, mlflow.
+- **Additional Tools:** Git, Prometheus, Grafana, Arduino, Jupyter Notebooks, MLflow.
 - **Familiar With:** Fine-tuning LLMs, Spark-Scala, Kubernetes, pySpark.
 - **Music Tech:** MIDI Programming (Python & music21, Arduino).
 - **Music:** Jazz Harmony and arrangement, DAWs (Cubase, Ableton Live).
@@ -21,7 +21,7 @@ I love building engineering projects from scratch. I have a good sense of both t
 **Senior ML Engineer @ Project M** (Dec 2024 - Present) 
 - Deployment of an ML pipeline on AWS cloud.
 - Responsible for building the AWS infrastructure using infrastructure-as-code.
-- Built the project's infrastructure including PostgreSQL DB, mlflow service for model versioning and batch processing jobs using ECS serverless tasks.
+- Built the project's infrastructure including PostgreSQL DB, MLflow service for model versioning and batch processing jobs using ECS serverless tasks.
 
 **ML Algorithms Engineer @ Outbrain** (Jan 2022 - Dec 2024)
 - Optimization of Click Through Rate, Conversion Rate and Viewability.
