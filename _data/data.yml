@@ -1,0 +1,196 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Adam Lauz
+  tagline: Machine Learning Engineer | Researcher
+  #avatar:  https://avatars.githubusercontent.com/u/2620814?v=4 #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: adamlauz@gmail.com
+  phone: +972-522272378
+  #timezone: Asia/Jerusalem # Enter your timezone
+  citizenship:
+  #website: https://github.com/AdamLauz # Based on your GitHub profile
+  linkedin: www.linkedin.com/in/adam-l-2b96985b
+  github: github.com/AdamLauz
+  # telegram: # add your nickname without '@' sign
+  # gitlab:
+  # bitbucket:
+  # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  # twitter: '@jekyllrb'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
+  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  skills_side: 
+    title: Skills
+    info:
+    - idiom: Machine Learning 
+      level: XGBoost, Deep Learning, Factorization Machines, LLMs, RAG
+    - idiom: Python
+      level: Flask, scikit-learn, pandas, NumPy, MLflow, PyTorch, TensorFlow, HuggingFace
+    - idiom: AWS Cloud Services
+      level: EC2, ECS, ECR, RDS, S3, Farget, SageMaker
+    - idiom: Data Engineering & Analytics
+      level: PostgreSQL, Vertica, Hive, MongoDB, cassandra
+    - idiom: Docker & Infrastructure-as-code
+      level: AWS, aws-cdk, AWS CloudFormation
+
+  languages:
+    title: Languages
+    info:
+    - idiom: English
+      level: Professional
+
+    - idiom: Hebrew
+      level: Native
+
+    - idiom: Circassian
+      level: Native
+
+  interests:
+    title: Interests
+    info:
+    - item: Engineering
+      link:
+
+    - item: Machine Learning
+      link:
+
+
+    - item: Music, Music technology
+      link:
+
+
+career-profile:
+  title: Career Profile
+  summary: |
+    I love building engineering projects from scratch. I have a good sense of both the technical and the broader product perspectives. 
+    I have experience in managing software products, data analysis, predictive modeling, A/B testing and deployment of machine learning 
+    models to production.
+education:
+  title: Education
+  info:
+  - degree: M.Sc. in Information Systems Engineering
+    university: Ben-Gurion University of the Negev
+    time: 2016 - 2019
+    details: |
+      Thesis: Modeling Human Strategic Voting Behavior using Machine Learning
+      
+  - degree: B.Sc. in Information Systems Engineering
+    university: Ben-Gurion University of the Negev
+    time: 2009 - 2013
+    details: |
+      
+  - degree: Jazz Harmony external studies
+    university: Rimon School of Music
+    time: 
+    details: Took two jazz harmony and arrangement courses.
+
+experiences:
+  title: Experiences
+  info:
+  - role: Senior ML Engineer @ Project M
+    time: Dec 2024 - Present
+    company: 
+    details: |
+      - Deployment of a medical decision support backend on AWS cloud.
+      - Responsible for building the AWS infrastructure using infrastructure-as-code (python & aws-cdk).
+      - Built the project's infrastructure including PostgreSQL DB, MLflow service for model versioning and batch processing jobs using ECS serverless tasks.
+      
+  - role: ML Algorithms Engineer @ Outbrain
+    time: Jan 2022 - Dec 2024
+    company: 
+    details: |
+      - Optimization of Click Through Rate, Conversion Rate and Viewability.
+      - Extensive feature engineering and continuous improvement.
+      - Model development, deployment, monitoring and online A/B testing.
+      
+  - role: Data Scientist @ RSA Security
+    time: Jan 2020 - Jan 2022
+    company: 
+    details: |
+      - Implemented fraud detection models for e-commerce and online banking.
+      - Research, data analysis and explaining model behavior to customer representatives.
+      - Deployed machine learning pipelines using Amazon SageMaker, S3, and Docker.
+      
+  - role: Product Manager @ Israeli Navy
+    time: 2013 - 2019
+    company: 
+    details: |
+      - Led a group of product managers
+      - Defined product requirements by closely analyzing user needs and feedback.
+      - Awarded a Certificate of Excellence from the head of the Israeli Navy's equipment division in 2017 for exceptional creativity and project outcomes.
+
+projects:
+  title: Personal Projects
+  intro: >
+    A collection of my personal projects focused on machine learning, music technology, and natural language processing.
+  assignments:
+  - title: RAG Based GPT Service
+    link: "https://github.com/AdamLauz/sawserQGPT"
+    tagline: "Developed an Nginx & Flask service using RAG architecture with BAAI/bge-small-en-v1.5 for embeddings and TheBloke/Mistral-7B-Instruct-v0.2-GPTQ as the LLM."
+
+  - title: Voice2Text LLM based paraphrasing Service
+    link: "https://github.com/AdamLauz/voice2text-service"
+    tagline: "Implemented an Nginx & Flask service based on Whisper (OpenAI Speech Recognition) and ChatGPT Paraphraser (T5 LLM)."
+
+  - title: Counterpoint Melody Generation using LSTM Model
+    link: "https://github.com/AdamLauz/counterpoint-generator-lstm"
+    tagline: "Trained an LSTM model on cantus firmus and counterpoint melodies, capable of generating accurate counterpoint melodies."
+
+  - title: MIDI Functionality in Acoustic Accordion
+    link: "https://github.com/AdamLauz/midi-accordion-arduino"
+    tagline: "Developed and integrated an Arduino-based system into an acoustic accordion to capture and translate sensory data to MIDI, expanding the instrument's capabilities."
+
+publications:
+  title: Publications
+  intro:
+  papers:
+  - title: "Modeling People's Voting Behavior with Poll Information"
+    link: "https://dl.acm.org/doi/10.5555/3306127.3331852"
+    authors: R Fairstein, A Lauz, K Gal, R Meir
+    conference: "International Foundation for Autonomous Agents and Multiagent Systems (AAMAS) · May 13, 2019"
+  - title: Developing a Novel, Open Source EMR-Integrated Appointment Scheduling System for the Developing World
+    link: "https://www.jhia-online.org/index.php/jhia/article/view/74"
+    authors: Greensweig T, Morrison Z, Grinberg Y, Lauz A, Gal Y.
+    conference: "Journal of Health Informatics in Africa · Sep 1, 2013"
+
+# skills:
+#   title: Skills &amp; Proficiency
+
+  # toolset:
+  # - name: Machine Learning (XGBoost, Deep Learning, Factorization Machines, LLMs, RAG)
+  #   level: 95%
+
+  # - name: Python (Flask, scikit-learn, pandas, NumPy, MLflow, PyTorch, TensorFlow, HuggingFace)
+  #   level: 95%
+
+  # - name: AWS Cloud Services (EC2, ECS, ECR, RDS, S3, Farget, SageMaker)
+  #   level: 90%
+
+  # - name: Data Engineering & Analytics (PostgreSQL, Vertica, Hive, MongoDB, cassandra)
+  #   level: 85%
+
+  # - name: Docker & Infrastructure-as-code (AWS, aws-cdk, AWS CloudFormation)
+  #   level: 80%
+
+  # - name: Java (SpringBoot)
+  #   level: 80%
+    
+  # - name: MIDI Programming & Music Tech
+  #   level: 75%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

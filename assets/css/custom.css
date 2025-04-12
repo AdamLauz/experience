@@ -1,0 +1,33 @@
+/* Print styles override */
+@media print {
+  /* Remove URLs from all links when printing */
+  a[href]:after,
+  a[href]:before {
+    content: none !important;
+  }
+  
+  /* Specific override for any link type */
+  a:link:after, 
+  a:visited:after,
+  a:link:before,
+  a:visited:before {
+    content: none !important;
+  }
+  
+  /* Override any styles that might be showing URLs in parentheses/brackets */
+  a, a:link, a:visited {
+    text-decoration: none !important;
+    color: #000 !important;
+  }
+  
+  /* Additional declaration to be thorough */
+  * {
+    print-url: none !important;
+  }
+  
+  /* Make sure content property is cleared for all link states */
+  a:after, a:before {
+    content: "" !important;
+    display: none !important;
+  }
+}
