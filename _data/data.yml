@@ -17,9 +17,9 @@ sidebar:
   phone: +972-522272378
   #timezone: Asia/Jerusalem # Enter your timezone
   citizenship:
-  website: adamlauz.github.io/experience/ # Based on your GitHub profile
-  linkedin: linkedin.com/in/adam-l-2b96985b
-  github: github.com/AdamLauz
+  website:  # Based on your GitHub profile
+  linkedin: adam-l-2b96985b
+  github: AdamLauz
   # telegram: # add your nickname without '@' sign
   # gitlab:
   # bitbucket:
